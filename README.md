@@ -3,6 +3,13 @@
 原图：![image](https://user-images.githubusercontent.com/57471141/114347201-2949c700-9b97-11eb-9e66-e94ea9157562.png)
 图片来源：http://robotics.pkusz.edu.cn/resources/dataset/
 图片分辨率：3034*1586
+环境需要：
+python3.6
+xml
+os
+cv2
+tqdm
+自行pip/conda install [name]安装
 
 一、通过auto_split_img_test05.py
 通过解析XML文件在原图上进行显示，不修改xml文件，仅生成新图。
