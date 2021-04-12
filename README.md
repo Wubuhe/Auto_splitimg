@@ -12,11 +12,11 @@
 均匀切割成M*N张图片，不修改xml文件，仅生成新图。
 生成图片：
 ![image](https://user-images.githubusercontent.com/57471141/114347773-12f03b00-9b98-11eb-8bb0-f2aee2eca161.png)
-生成图片：
+
 ![image](https://user-images.githubusercontent.com/57471141/114347851-3a470800-9b98-11eb-99bc-fff04db14f81.png)
-生成图片：
+
 ![image](https://user-images.githubusercontent.com/57471141/114347900-52b72280-9b98-11eb-9253-ef64da8569dd.png)
-生成图片：
+
 ![image](https://user-images.githubusercontent.com/57471141/114347930-5e0a4e00-9b98-11eb-9c62-c78c719f0b83.png)
 
 三、通过auto_split_img_test02.py
@@ -32,5 +32,5 @@ xml:生成展示：
 
 四、使用建议
 通过test02生成相应数据集合进行模型训练，通过03将检测图片进行分割后放入模型进行检测。
-所有代码来源网络，本人仅负责收集并修改一部分。主要目的是为了手能力又比较弱的同学可以进行基本的实验。
+所有代码来源网络，本人仅负责收集并修改一部分。主要目的是为了像本人一样又菜又爱玩的同学可以进行基本的实验。
 
