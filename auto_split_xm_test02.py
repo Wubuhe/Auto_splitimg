@@ -22,10 +22,7 @@ annota_dir = '原boundingbox的xml文件存放地址'
 target_dir2 = '分块boundingbox的xml文件存放地址'
 """
 
-origin_dir = '../PCB_yolov3_pytorch1/PCB_ori/JPEGImages/'
-target_dir1 = 'images_train/JPEGImages/'
-annota_dir = '../PCB_yolov3_pytorch1/PCB_ori/Annotations/'
-target_dir2 = 'images_train/Annotations/'
+
 
 
 def clip_img(No, oriname):
